@@ -14,4 +14,6 @@ int main()
 {
     print_square(1.2345); // Print 
     print_square(5.555); // print
+    print_square(5.658974); // print    
+
 }
