@@ -9,5 +9,5 @@ struct Paciente {
 };
 
 int main () {
-    
+    cout << "hola mundo" << "\n";
 }
